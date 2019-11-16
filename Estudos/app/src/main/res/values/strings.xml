@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Estudos</string>
+    <string name="login">Login: </string>
+    <string name="password">Password: </string>
+    <string name="bemVindo">Bem Vindo</string>
+    <string name="logar">Logar</string>
+</resources>
